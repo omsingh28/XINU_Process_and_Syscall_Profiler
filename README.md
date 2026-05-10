@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bvsWAkGr)
-# Project 1: Getting Acquainted with XINU
+
+# XINU
 
 ## 1. Objective
 The objective of this introductory lab is to familiarize you with the process of compiling and running XINU, the tools involved, and the run-time environment.
